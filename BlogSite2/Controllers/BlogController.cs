@@ -2,7 +2,7 @@
 
 namespace BlogSite2.Controllers
 {
-    public class TestController : Controller
+    public class BlogController : Controller
     {
         public IActionResult Index()
         {
